@@ -32,7 +32,7 @@ def stats(update, context):
 @run_async
 def start(update, context):
     sendMessage("This is a bot which can mirror all your links to Google drive!\n"
-                "Type /help to get a list of available commands", context.bot, update)
+                "Type /tolong to get a list of available commands", context.bot, update)
 
 
 @run_async
@@ -83,7 +83,6 @@ def bot_help(update, context):
 
 /{BotCommands.LogCommand}: Get a log file of the bot. Handy for getting crash reports
 
-Watch video - https://youtu.be/07Pj9YLdpM4
 '''
     sendMessage(help_string, context.bot, update)
 
