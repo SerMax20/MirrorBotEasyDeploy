@@ -1,10 +1,10 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'p'
-        self.MirrorCommand = 'unduh'
-        self.TarMirrorCommand = 'tar'
-        self.CancelMirror = 'cancel'
-        self.CancelAllCommand = 'cancelall'
+        self.MirrorCommand = 'download'
+        self.TarMirrorCommand = 'downloadtar'
+        self.CancelMirror = 'batal'
+        self.CancelAllCommand = 'batalsemua'
         self.ListCommand = 'cari'
         self.StatusCommand = 'cek'
         self.AuthorizeCommand = 'authorize'
@@ -14,8 +14,8 @@ class _BotCommands:
         self.StatsCommand = 'st'
         self.HelpCommand = 'tolong'
         self.LogCommand = 'log'
-        self.CloneCommand = "salin"
-        self.WatchCommand = 'w'
-        self.TarWatchCommand = 'tarw'
+        self.CloneCommand = "copy"
+        self.WatchCommand = 'tonton'
+        self.TarWatchCommand = 'tontontar'
 
 BotCommands = _BotCommands()
