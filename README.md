@@ -46,7 +46,7 @@ python3 generate_drive_token.py
 
 ``` pkg install python wget ```
 
-``` wget https://raw.githubusercontent.com/imsawankumar/Torrent-Mirror-Bot/master/generate_drive_token.py ```
+``` wget https://raw.githubusercontent.com/mvplID/MirrorBotEasyDeploy/master/generate_drive_token.py ```
 
 ``` pip install oauth2client ```
 
@@ -79,7 +79,7 @@ python3 generate_string_session.py
 
 ``` pkg install python wget ``` (if not installed earlier)
 
-``` wget https://raw.githubusercontent.com/imsawankumar/Torrent-Mirror-Bot/master/generate_string_session.py ```
+``` wget https://raw.githubusercontent.com/mvplID/MirrorBotEasyDeploy/master/generate_string_session.py ```
 
 ``` pip install pyrogram tgcrypto ```
 
@@ -97,3 +97,4 @@ For using your premium accounts in youtube-dl, edit the netrc file (in the root 
 machine host login username password my_youtube_password
 ```
 where host is the name of extractor (eg. youtube, twitch). Multiple accounts of different hosts can be added each separated by a new line
+.
