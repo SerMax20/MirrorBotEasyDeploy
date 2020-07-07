@@ -1,7 +1,7 @@
 <h1 align="center">Torrent Mirror Bot</h1> 
 
 <hr>
-> ## This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
+> This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 
 # Features supported:
