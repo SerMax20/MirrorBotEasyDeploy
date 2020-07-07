@@ -1,5 +1,5 @@
 {
-  "name": "Gdrive-Mirror-bot-Heroku",
+  "name": "MirrorBoyEasyDeploy",
   "description": "This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.",
   "logo": "https://telegra.ph/file/55cadc1697ae944a7f432.png",
   "keywords": [
@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/imsawankumar/Torrent-Mirror-Bot",
-  "success_url": "https://github.com/imsawankumar/Torrent-Mirror-Bot",
-  "website": "https://github.com/imsawankumar/Torrent-Mirror-Bot",  
+  "repository": "https://github.com/mvplID/MirrorBotEasyDeploy",
+  "success_url": "https://github.com/mvplID/MirrorBotEasyDeploy",
+  "website": "https://github.com/mvplID/MirrorBotEasyDeploy",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
