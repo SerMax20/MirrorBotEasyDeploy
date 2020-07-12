@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/mvplID/MirrorBotEasyDeploy",
-  "success_url": "https://github.com/mvplID/MirrorBotEasyDeploy",
-  "website": "https://github.com/mvplID/MirrorBotEasyDeploy",  
+  "repository": "https://github.com/DakshVV/MirrorBotEasyDeploy.git",
+  "success_url": "https://github.com/DakshVV/MirrorBotEasyDeploy.git",
+  "website": "https://github.com/DakshVV/MirrorBotEasyDeploy.git",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
